@@ -1,0 +1,8 @@
+keeping the script tag in the head ensure redability
+and keeping it in the body ensure >>
+
+script can be place in header or body
+
+prompt
+
+to read the value from the text box use document.getElementById
